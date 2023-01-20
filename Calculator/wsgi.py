@@ -1,5 +1,5 @@
 """
-WSGI config for Calculator project.
+WSGI config for Calculator project. (good code only)
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
